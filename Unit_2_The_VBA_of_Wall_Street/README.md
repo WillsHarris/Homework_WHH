@@ -12,3 +12,5 @@ I make a VBA program for stock data that...
 * Applies conditional formatting to highlight positive change in green and negative change in red.
 
 *  Returns the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
+
+The VBA script and snapshots of the analysis are provided 
