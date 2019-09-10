@@ -1,5 +1,5 @@
 # Homework 2
-I made a VBA program for stock data that...
+I make a VBA program for stock data that...
 
 * Records and prints the ticker symbol of each stock.
 
