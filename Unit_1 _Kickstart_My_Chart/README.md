@@ -26,7 +26,9 @@ For this homework, I preform the folowing tasks:
 * Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale.
   * Create a new columns called Average Donation, Category and Sub-Category
   
-The resulting worksheet looks like this -
+The resulting notebook looks like this -
+
+![notebook](Kickstart_Notebook.png)
   
   
 * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
