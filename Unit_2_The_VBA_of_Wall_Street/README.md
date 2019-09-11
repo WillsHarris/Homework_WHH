@@ -17,4 +17,4 @@ The VBA script and snapshots of the analysis are provided
 
 ## Results:
 
-![Stocks from 2014](image.png)
+![Stocks from 2014](Stocks_2014.png)
