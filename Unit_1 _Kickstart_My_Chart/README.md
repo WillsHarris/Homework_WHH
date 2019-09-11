@@ -20,4 +20,4 @@ It would be interesting to make a histogram of the number of campaigns binned by
 ## Results 
 
 * Use conditional formatting to fill each cell in the state column with a different color
-  *Create a new column O called Percent Funded
+  * Create a new column O called Percent Funded
