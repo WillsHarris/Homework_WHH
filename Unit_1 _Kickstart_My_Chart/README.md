@@ -25,10 +25,24 @@ For this homework, I preform the folowing tasks:
   * Create a new column called Percent Funded
 * Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale.
   * Create a new columns called Average Donation, Category and Sub-Category
-  
-The resulting notebook looks like this -
 
-![notebook](Kickstart_Notebook.png)
+![notebook_1](Kickstart_Notebook.png)
   
   
 * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
+  * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
+
+![notebook_2](Kickstart_Pivot_1.png)
+
+* Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per sub-category.
+  * Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
+
+![notebook_3](Kickstart_Pivot_2.png)
+
+
+* Create a new sheet with a pivot table with a column of state, rows of Date Created Conversion, values based on the count of state, and filters based on parent category and Years.
+  * Create a pivot chart line graph that visualizes this new table.
+
+![notebook_4](Kickstart_Pivot_3.png)
+  
+  
