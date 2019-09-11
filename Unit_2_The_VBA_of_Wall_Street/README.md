@@ -16,11 +16,11 @@ I make a VBA program for stock data that...
 The VBA script and snapshots of the analysis are provided 
 
 ## Results
-Stocks from 2014:
+**Stocks from 2014:**
 ![Stocks from 2014](Stocks_2014.png)
 
-Stocks from 2015:
+**Stocks from 2015:**
 ![Stocks from 2015](Stocks_2015.png)
 
-Stocks from 2016:
+**Stocks from 2016:**
 ![Stocks from 2016](Stocks_2016.png)
