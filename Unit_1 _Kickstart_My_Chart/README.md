@@ -22,4 +22,8 @@ It would be interesting to make a histogram of the number of campaigns binned by
 * Use conditional formatting to fill each cell in the state column with a different color
   * Create a new column called Percent Funded
 * Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale.
- * Create a new columns called Average Donation, Category and Sub-Category
+  * Create a new columns called Average Donation, Category and Sub-Category
+The resulting worksheet looks like this -
+  
+  
+* Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
