@@ -17,3 +17,7 @@ It would be nice to know the demographics of donors to help determine if the don
 It would be interesting to make a histogram of the number of campaigns binned by the percentage of funding they receive. I would suspect that there are a high concentration of campaigns around 0% and a high concentration at and above 100% but few between. If so, this could in part be explained by the motivating effect of establishing a funding goal. It would also be interesting to compare the size of the goal to the success rate. Similarly, we could compare the number of donors to the success rate and tried to determine if the success of a campaign depends more on the number of donors or the donation average.
 
 
+## Results 
+
+* Use conditional formatting to fill each cell in the state column with a different color
+  *Create a new column O called Percent Funded
