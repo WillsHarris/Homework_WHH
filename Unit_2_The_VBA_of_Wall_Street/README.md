@@ -14,3 +14,7 @@ I make a VBA program for stock data that...
 *  Returns the stock with the "Greatest % increase", "Greatest % Decrease" and "Greatest total volume".
 
 The VBA script and snapshots of the analysis are provided 
+
+## Results:
+
+![Stocks from 2014](image.png)
