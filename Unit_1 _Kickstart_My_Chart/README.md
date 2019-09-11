@@ -19,10 +19,13 @@ It would be interesting to make a histogram of the number of campaigns binned by
 
 ## Results 
 
+For this homework, I preform the folowing tasks: 
+
 * Use conditional formatting to fill each cell in the state column with a different color
   * Create a new column called Percent Funded
 * Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale.
   * Create a new columns called Average Donation, Category and Sub-Category
+  
 The resulting worksheet looks like this -
   
   
