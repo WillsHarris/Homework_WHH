@@ -1,5 +1,6 @@
 CREATE TABLE flights (
-datetime DATE PRIMARY KEY,
+index INT PRIMARY KEY,
+datetime DATE,
 airport_code TEXT,
 city TEXT,
 flight_number INT,	 	
@@ -8,7 +9,8 @@ cancellation TEXT
 );
 
 CREATE TABLE weather (
-datetime DATE PRIMARY KEY,
+index INT PRIMARY KEY,
+datetime DATE,
 atlanta TEXT,
 chicago TEXT,
 kansas_city TEXT,
