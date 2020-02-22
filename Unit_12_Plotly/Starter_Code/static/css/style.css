@@ -1,0 +1,60 @@
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  /* color: azure; */
+}
+
+
+.bar {
+    fill: rgb(0, 0, 139);
+}
+
+.bar:hover {
+    fill: rgb(103, 121, 0);
+}
+
+
+.tooltip {
+    display: none;
+    position: absolute;
+    width: 400px;
+    height: 30px;
+    padding: 2px;
+    font: 12px sans-serif;
+    text-align: left;
+    background: rgba(255, 255, 255, 0.514);
+    border: 0;
+    border-radius: 0px;
+    opacity: 1;
+  }
+  
+
+
+
+  /* _____ */
+  .grid .tick {
+    stroke: lightgrey;
+    stroke-opacity: 0.2;
+    shape-rendering: crispEdges;
+  }
+
+
+
+  .grid .domain {
+    stroke-opacity: 0; 
+  }
+
+
+
+
+.circle {
+  /* fill: rgb(0, 0, 139); */
+  opacity: 1;
+
+}
+
+/* circle:hover {
+  border: 10px;
+} */

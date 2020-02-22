@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title> UFO Finder</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootswatch/3.3.7/superhero/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet">
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+
+<body>
+  <div class = "container">
+
+      
+    
+    <div class="col-md-12"> 
+      <div class="row">
+      <div  class="col-md-2"> 
+      <img src="static/images/spaceship.png", width="130px;">
+      </div>
+      <div> 
+      <h1> <b><i>UFO Sightings...</i></b></h1>
+      </div>
+      </div>
+      <hr class="style">
+      <hr class="style">
+    </div>
+  <div class = "col-md-12" align = "center">
+    <h2><b>Filter Search:</b></h2>
+    <ul>
+  
+
+      <div class = "container2">
+        
+    
+        <li><div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-3"> 
+            <p><b>Enter a Date</b></p>
+            </div> 
+            <div class="col-md-3"> 
+                <select id="datetime">
+                    <option value="all">all</option>
+                </select>
+            </div>
+          </div></li> 
+
+          <li><div class="row">
+              <div class="col-md-2"></div>
+              <div class="col-md-3"> 
+              <p><b>Select a City</b></p>
+              </div> 
+              <div class="col-md-3"> 
+                  <select id="city">
+                      <option value="all">all</option>
+                  </select>
+              </div>
+            </div></li> 
+
+
+
+          <li><div class="row">
+              <div class="col-md-3"></div>
+              <div class="col-md-3"> 
+              <p><b>Enter a State</b></p>
+              </div> 
+              <div class="col-md-2"> 
+                  <select id="state">
+                      <option value="all">all</option>
+                  </select>
+              </div>
+            </div></li> 
+
+
+            <li><div class="row">
+                <div class="col-md-4"></div>
+                <div class="col-md-3"> 
+                <p><b>Select a Country</b></p>
+                </div> 
+                <div class="col-md-2"> 
+                    <select id="country">
+                        <option value="all">all</option>
+                    </select>
+                </div>
+              </div></li> 
+
+
+              <li>
+                <div class="row">
+                    <div class="col-md-5"></div>
+                  <div class="col-md-3"> 
+                  <p><b>Select a Shape</b></p>
+                  </div> 
+                  <div class="col-md-2"> 
+                      <select id="shape">
+                        <option value="all">all</option>
+                      </select>
+                  </div>
+                
+                </div>
+              
+              </li> 
+            
+      </li> 
+    </ul>
+  </div>
+    
+
+    <div class = "row">
+      <div class = "col-md-5">
+        <hr class="stylel">
+      </div>
+      <div class = "col-md-2" align=center>
+       <button type="button" > <b>Filter Table</b></button> 
+      </div>
+      <div class = "col-md-5">
+       <hr class="styler">
+      </div>
+    </div>
+  
+   
+  
+    <div class = "container3" id="table">
+
+    </div>
+
+    <hr class="style">
+
+  
+  </div>
+
+  
+
+
+
+ 
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
+  <script src="static/js/data.js"></script>
+  <script src="static/js/app.js"></script>
+
+
+ 
+
+  
+
+</div>
+
+</body>
+
+
+</html>
